@@ -1,16 +1,13 @@
-## Hi there 👋
+## 来自 j23 的更多内容
 
-<!--
-**Jerry-at-GH/Jerry-at-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 二次创作
 
-Here are some ideas to get you started:
+- 3D 冰淇凛 https://shima-cream.j-23.top/
+  - 设有纸卡版本
+- Kaf 降临！透卡 https://kaf-hk.j-23.top/
+  - 设有纸卡版本
+- 友人 D 应援透卡 https://observer-d.j-23.top
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 实用工具
+
+- subtimer 日语字幕自动打轴 https://github.com/Jerry-at-GH/subtimer
