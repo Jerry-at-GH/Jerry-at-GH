@@ -1,4 +1,4 @@
-## 来自 j23 的更多内容
+## 来自 j23 的内容
 
 ### 二次创作
 
@@ -10,4 +10,5 @@
 
 ### 实用工具
 
+- typemix CJK 字体大小间距对齐 https://github.com/Jerry-at-GH/typemix
 - subtimer 日语字幕自动打轴 https://github.com/Jerry-at-GH/subtimer
