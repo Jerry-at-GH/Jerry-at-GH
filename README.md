@@ -10,5 +10,4 @@
 
 ### 实用工具
 
-- typemix CJK 字体大小间距对齐 https://github.com/Jerry-at-GH/typemix
 - subeval 字幕时轴对比评价 https://subeval.j-23.top
