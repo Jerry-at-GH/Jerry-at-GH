@@ -12,4 +12,4 @@
 ### 实用工具
 
 - subeval 字幕时轴评估 https://subeval.j-23.top
-- SubsRefine Web 非官方的 [SubsRefine](https://github.com/MingYSub/SubsRefine) 网页版 https://subsrefine-web.j-23.top
+- SubsRefine Web 非官方的 [MingYSub/SubsRefine](https://github.com/MingYSub/SubsRefine) 网页版 https://subsrefine-web.j-23.top
